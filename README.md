@@ -6,7 +6,7 @@
 
 ## Features
 
-ArrayList can validate:
+[ArrayList](https://www.flowerbrackets.com/arraylist-in-java/) can validate:
 
 - Scalar types: `string`, `integer`, etc.:
 
